@@ -7,6 +7,8 @@ https://howtodoinjava.com/core-java/cloning/a-guide-to-object-cloning-in-java/
 
 -Why we require getter setter?
 -Abstract class vs interface?
+https://www.codeproject.com/articles/11155/abstract-class-versus-interface
+
 -why not always use abstract class.
 -Equals and hashcode, why should we override both?
 -Syntax and code.
